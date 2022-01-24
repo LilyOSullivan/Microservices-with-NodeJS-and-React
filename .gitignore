@@ -88,3 +88,4 @@ typings/
 .dynamodb/
 
 .DS_STORE
+ticketing/create_secret.txt
