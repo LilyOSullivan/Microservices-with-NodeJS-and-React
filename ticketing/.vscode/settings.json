@@ -1,8 +1,10 @@
 {
     "cSpell.words": [
         "currentuser",
+        "depl",
         "lostickets",
         "middlewares",
+        "nats",
         "signin",
         "signout"
     ]
