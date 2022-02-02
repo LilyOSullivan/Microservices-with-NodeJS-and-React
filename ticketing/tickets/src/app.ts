@@ -7,7 +7,7 @@ import { currentUser, errorHandler, NotFoundError } from "@lostickets/common";
 import { createTicketRouter } from "./routes/new";
 import { showTickerRouter } from "./routes/show";
 import { indexTicketRouter } from "./routes/index";
-import { updateTicketRouter } from "./routes/updates";
+import { updateTicketRouter } from "./routes/update";
 
 const app = express();
 app.set("trust proxy", true);
