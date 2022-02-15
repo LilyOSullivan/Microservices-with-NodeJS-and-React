@@ -3,10 +3,12 @@
         "acks",
         "currentuser",
         "depl",
+        "kubectl",
         "lostickets",
         "middlewares",
         "nats",
         "signin",
-        "signout"
+        "signout",
+        "skaffold"
     ]
 }
