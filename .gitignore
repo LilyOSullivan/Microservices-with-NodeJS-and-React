@@ -89,3 +89,5 @@ typings/
 
 .DS_STORE
 ticketing/create_secret.txt
+
+ticketing/payments/src/test/stripeKey.ts
