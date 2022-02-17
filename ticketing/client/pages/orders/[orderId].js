@@ -18,7 +18,7 @@ const OrderShow = ({ order, currentUser }) => {
 			setTimeLeft(Math.round(msLeft / 1000));
 		};
 		findTimeLeft();
-		const timeId = setInterval(findTimeLeft, 1000);
+		const timerId = setInterval(findTimeLeft, 1000);
 		return () => {
 			clearInterval(timerId);
 		};
